@@ -1,0 +1,15 @@
+{
+    "name": "most-beautiful",
+    "version": "1.0.0",
+    "description": "Most Beautiful Girl in the Room Alexa App",
+    "main": "index.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Travis Neufeld",
+    "license": "ISC",
+    "dependencies": {
+    "ask-sdk-core": "^2.0.5",
+    "ask-sdk-model": "^1.3.1"
+    }
+}
